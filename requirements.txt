@@ -1,0 +1,7 @@
+dotenv
+google-generativeai
+langgraph
+pathlib2
+streamlit
+typing-extensions
+graphviz
